@@ -20,6 +20,10 @@ app.get("/health", (req, res) => {
   res.json({ status: "ok" });
 });
 
+app.get("/", (req, res) => {
+  res.send("AstroCRM Backend is running! 🚀");
+});
+
 /* ── Customers ────────────────────────────────────────────── */
 app.get("/api/customers", async (req, res) => {
   try {
