@@ -177,7 +177,7 @@ This project is optimized for deployment on Vercel and Render.
 
 ## 🔗 Live Demo
 
-**[View Live Application Here](#)** *(Replace with actual Vercel link)*
+**[View Live Application Here](#https://humara-pandit.vercel.app/)** 
 
 ---
 
