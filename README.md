@@ -38,15 +38,6 @@ Managing astrological consultations traditionally involves fragmented tools for 
 
 ---
 
-## 📸 Screenshots
-
-| Admin Dashboard | Pandit Dashboard | Customer Portal |
-| :---: | :---: | :---: |
-| ![Admin Dashboard Placeholder](./assets/admin-dashboard.png) *Admin View* | ![Pandit Dashboard Placeholder](./assets/pandit-dashboard.png) *Pandit View* | ![Customer Portal Placeholder](./assets/customer-portal.png) *Customer View* |
-
-*(Note: Replace placeholders with actual screenshot paths)*
-
----
 
 ## 🏗️ System Architecture
 
